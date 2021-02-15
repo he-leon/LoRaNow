@@ -27,7 +27,7 @@
 
 #include <Arduino.h>
 #include "LoRaNow.h"
-#include "utility/LoRa.h"
+#include "LoRa.h"
 #include "utility/LoRaUtilities.h"
 
 #if defined(ARDUINO_ARCH_AVR)
