@@ -12,7 +12,7 @@
 #define LORANOW_H
 
 #include <Arduino.h>
-#include "utility/LoRa.h"
+#include "LoRa.h"
 #include "utility/LoRaUtilities.h"
 
 // ---------------------------------------------------- //
